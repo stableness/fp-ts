@@ -1,5 +1,5 @@
 {
-  "name": "fp-ts",
+  "name": "@stableness/fp-ts",
   "version": "2.9.0",
   "description": "Functional programming in TypeScript",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gcanti/fp-ts.git"
+    "url": "https://github.com/stableness/fp-ts.git"
   },
   "author": "Giulio Canti <giulio.canti@gmail.com>",
   "license": "MIT",
